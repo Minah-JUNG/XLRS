@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Define the base directories and references for easier access and modification
+# Define directories and references
 DirInput="./Raw"
 DirRef="./Reference_Ensembl/GRCh38"
 Ref="$DirRef/Homo_sapiens.GRCh38.dna.chromosome.fa"
