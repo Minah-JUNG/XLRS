@@ -17,7 +17,7 @@ library(stringr)
 ##################################################
 
 dir <- "D:/Documents"
-groups <- paste0("Group", LETTERS[1:9])
+groups <- paste0("Group", LETTERS[1:8])
 file_in <- "network_graph_multi_Cluster.xlsx"
 
 ##################################################
