@@ -22,7 +22,7 @@ eye_gene_dir <- "D:/Documents/EyeGeneLists"
 out_dir <- file.path(dir, "Figure_Network_EyeRelated_Highlight")
 dir.create(out_dir, showWarnings = FALSE)
 
-groups <- paste0("Group", LETTERS[1:9])  # GroupA ~ GroupI
+groups <- paste0("Group", LETTERS[1:8])  # GroupA ~ GroupH
 
 ##################################################
 ## Network
