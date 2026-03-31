@@ -1,4 +1,4 @@
-## network and GO enrichment for common and Group C
+## network and GO enrichment for common and Group B
 
 ##################################################
 
@@ -20,7 +20,7 @@ library(org.Hs.eg.db)
 
 dir <- "D:/Documents"
 file_in <- "string_interactions_short.tsv"
-group_list <- c("Common", "GroupC")
+group_list <- c("Common", "GroupB")
 date_tag <- Sys.Date()
 
 ##################################################
