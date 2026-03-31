@@ -1,4 +1,4 @@
-## network data with clusters for Group C
+## network data with clusters for Group B
 
 ##################################################
 
