@@ -1,4 +1,4 @@
-## Network data plot & ORA (Eye-related Cluster, Group D & G)
+## Network data plot & ORA (Eye-related Cluster, Group C & F)
 
 rm(list = ls())
 
@@ -23,7 +23,7 @@ library(ggtext)
 
 dir <- "D:/Documents/"
 file_in <- "string_interactions_short.tsv"
-groups <- c("GroupD", "GroupG")  
+groups <- c("GroupC", "GroupF")  
 
 ##################################################
 ## Loop per Group
