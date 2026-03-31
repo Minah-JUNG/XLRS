@@ -1,4 +1,4 @@
-## Network Plot: Cluster Highlight (GroupD & GroupG)
+## Network Plot: Cluster Highlight (GroupC & GroupF)
 
 rm(list = ls())
 
